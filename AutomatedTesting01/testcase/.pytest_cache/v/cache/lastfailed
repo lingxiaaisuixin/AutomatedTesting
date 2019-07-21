@@ -1,0 +1,5 @@
+{
+  "test_smoke1.py": true,
+  "test_smoke2.py::test_smoke2::runTest": true,
+  "test_smoke3.py::test_smoke2": true
+}

@@ -1,1 +1,4 @@
 # AutomatedTesting
+自动化测试框架源码AutomatedTesting01和AutomatedTesting02分别为两个不同的自动化测试框架，取其一即可
+AutomatedTesting01
+AutomatedTesting02
